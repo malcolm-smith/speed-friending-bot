@@ -1,7 +1,12 @@
-.vscode
+# main
 package-lock.json
 */node_modules
 */data
+*/broken
 
+# tokens
 config.json
 channels.json
+
+# extra
+.vscode
