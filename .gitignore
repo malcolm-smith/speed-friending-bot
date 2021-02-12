@@ -1,7 +1,6 @@
 .vscode
 package-lock.json
 */node_modules
-*/commands
 */data
 
 config.json
